@@ -59,7 +59,7 @@ def show_project_page():
 
     with col2:
         font_color("Presentation Link ")
-        st.write("The presentation slides can be obtained [here](https://drive.google.com/file/d/1pmxJNSqogc2LzKshWHkz-SxKiUVCqq_I/view?usp=sharing)!")        
+        st.write("The presentation slides can be obtained [here](https://drive.google.com/file/d/1bUwACofeY3rbkNd_IqNqPUQfZmpaJL71/view?usp=sharing)!")        
     st.write("""***""")
         
     # st.write("""### Developed by:""")
