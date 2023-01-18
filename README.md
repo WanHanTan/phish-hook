@@ -26,4 +26,3 @@ The pictures below show the homepage of Phish Hook, Users can enter or paste any
 ![](https://github.com/WanHanTan/phish-hook/blob/main/images/output2.png?raw=true)
 + **HIGH RISK** indicates that the URL leads to a malicious phishing website, and users are encouraged to avoid clicking it.
 
-# Repo Structure
