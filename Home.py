@@ -50,7 +50,7 @@ def show_home_page():
         clicked = st.button("Scan URL")
 
         # path to trained model
-        model_path = 'C:/Users/Hannah Tan/OneDrive - Universiti Malaya/Y3S1/DS Project/Notebook_PhishHook/model/malicious_url_prediction.pkl'    
+        model_path = 'C:/Users/Hannah Tan/OneDrive - Universiti Malaya/Y3S1/DS Project/phish-hook/model/malicious_url_prediction.pkl'    
         #pickled_model = pickle.load(open('model/malicious_url_prediction.pkl', 'rb'))
     
         if clicked:
