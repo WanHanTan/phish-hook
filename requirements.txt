@@ -16,4 +16,3 @@ selenium
 wordcloud
 nltk
 pillow==9.4.0
-pickle
