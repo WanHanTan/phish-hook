@@ -9,6 +9,11 @@ scikit_learn
 imblearn==0.0
 protobuf==3.20.1
 streamlit==1.17.0
-plotly
+plotly==5.12.0
 scikit_image
-tld
+tldextract
+selenium
+wordcloud
+nltk
+pillow==9.4.0
+pickle
