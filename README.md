@@ -2,7 +2,7 @@
  Phishing URLs detection using Machine Learning
 
 ## Presentation Slides
-Link: https://drive.google.com/file/d/1J8NVsYMY-SFLqeSKkDNvCmzCQY2VVc8Y/view?usp=sharing 
+Link: https://drive.google.com/file/d/1xSZY-3mahddU18C2NmHFpqUyNWjb7lUs/view?usp=share_link
 
 # Data Science Project Documentation
 ### Introduction
