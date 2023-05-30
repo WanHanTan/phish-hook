@@ -6,7 +6,6 @@ Link: https://drive.google.com/file/d/1gQcY2FraO4Z0v_IHS9BkQqcmSuMwu-vw/view?usp
 
 # Data Science Project Documentation
 ### Introduction
-Link to App: https://phish-hook-malicious-url-detection.streamlit.app/
 
 **Phishing** is one of the familiar attacks that trick users to access malicious content and gain their information. It is a fraudulent method that obtains client identity information and financial credentials via the use of technological and social tricks. In terms of website interface and uniform resource locator (URL), most phishing webpages look identical to the actual webpages. Social networking platforms utilize spoof emails from legitimate organizations to let users access fake websites and disclose financial information such as usernames and passwords. 
 
